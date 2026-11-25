@@ -1,0 +1,14 @@
+/Library/ 
+/Temp/ 
+/Obj/ 
+/.idea/ 
+/.vs/ 
+/.vscode/ 
+*.csproj 
+*.sln 
+Thumbs.db 
+.DS_Store 
+/Logs/ 
+/UserSettings/ 
+Assets/StreamingAssets/Log/
+Build/

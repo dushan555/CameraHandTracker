@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "sphereDiameter": 0.02,
+  "forwardSensitivity": 0.2,
+  "skeletonScale": 0.5,
+  "twoHandScaleSensitivity": 1.2
+}
